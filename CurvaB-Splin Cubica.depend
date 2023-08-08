@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1691537157 source:c:\users\jhon\desktop\computacion visual\codigos cv\curvab-splin cubica\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<iostream>
+
+935113144 c:\program files (x86)\codeblocks\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+832837944 c:\program files (x86)\codeblocks\glut\include\gl\gl.h
+
+832394118 c:\program files (x86)\codeblocks\glut\include\gl\glu.h
+	<GL/gl.h>
+
